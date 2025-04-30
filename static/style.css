@@ -4,13 +4,6 @@ body {
     margin: 0;
     padding: 0;
 }
-.container {
-    padding: 20px;
-    max-width: 800px;       
-    margin: 0 auto;        
-    text-align: center;     
-    word-wrap: break-word;  
-}
 header {
     background-color: #ffb6b9;
     padding: 20px;
@@ -27,6 +20,10 @@ nav {
 }
 .container {
     padding: 20px;
+    max-width: 800px;       
+    margin: 0 auto;        
+    text-align: center;     
+    word-wrap: break-word;  
 }
 footer {
     background-color: #ffb6b9;
