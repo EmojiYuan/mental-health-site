@@ -4,10 +4,6 @@ body {
     margin: 0;
     padding: 0;
 }
-ul {
-    list-style: none;
-    padding-left: 0;
-}
 header {
     background-color: #ffb6b9;
     padding: 20px;
