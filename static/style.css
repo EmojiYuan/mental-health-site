@@ -31,7 +31,11 @@ footer {
     text-align: center;
     padding: 10px;
     color: white;
-    position: relative;
+    position: fixed;
     width: 100%;
     bottom: 0;
+}
+ul {
+    list-style: none
+    padding-left: 0 
 }
