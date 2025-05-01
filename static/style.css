@@ -6,7 +6,6 @@ body {
 }
 header {
     background-color: #ffb6b9;
-    padding: 20px;
     text-align: center;
 }
 nav a {
@@ -28,7 +27,6 @@ nav {
 footer {
     background-color: #ffb6b9;
     text-align: center;
-    padding: 10px;
     color: white;
     position: fixed;
     width: 100%;
